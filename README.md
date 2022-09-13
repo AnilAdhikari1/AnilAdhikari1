@@ -58,6 +58,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
    <img height="180em" align= "lift" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=aniladhikari1&theme=dark&border_radius=.5"/>
   
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniladhikari1&" alt="aniladhikari1" /></p>
-  
   
