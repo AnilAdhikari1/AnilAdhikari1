@@ -47,11 +47,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 
 ### :fire: My Stats :
-<div>
- <img height="180em" align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniladhikari1&show_icons=true&theme=radical"/>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikari1&layout=compact&langs_count=7&theme=dracula"/>
- </div>
+
+
+<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniladhikari1&show_icons=true&theme=radical"/>
+     
+  <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikari1&layout=compact&langs_count=7&theme=dracula"/>   
+
+  
+ 
    <img height="180em" align= "lift" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=aniladhikari1&theme=dark&border_radius=.5"/>
   
   
