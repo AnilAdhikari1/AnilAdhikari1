@@ -50,14 +50,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 ### :fire: My Stats :
 
-
 <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniladhikari1&show_icons=true&theme=radical"/>
      
   <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikari1&layout=compact&langs_count=7&theme=dracula"/>   
-
-  
  
    <img height="180em" align= "lift" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=aniladhikari1&theme=dark&border_radius=.5"/>
+   
+   ![GitHub metrics](https://metrics.lecoq.io/aniladhikari1) 
   
   
   
