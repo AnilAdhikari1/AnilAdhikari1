@@ -13,6 +13,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1" /> </p>
 
+ 
 ### :woman_technologist: About Me :
 - 🔭 I’m currently working on **figma & Softechpark Company Web DeveloperIntern.**
 
@@ -31,6 +32,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 - 📄 Know about my experiences [Coming Soon](Coming Soon)
 
 - ⚡ Fun fact **I am a person having happy personality with a heavy soul. But sometimes it gets weird!!**
+
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
