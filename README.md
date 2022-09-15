@@ -69,4 +69,10 @@ I’m a multitasking person. I am currently studying computer engineering & also
    ![GitHub metrics](https://metrics.lecoq.io/aniladhikari1) 
   
   
+
+  
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniladhikari1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+ 
   
