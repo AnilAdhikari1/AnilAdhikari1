@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611996b2ae0f5b7cdc220a366369995efa0b8be7e0d&rid=giphy.gif&ct=s" width="100"/>
 </div>
-
 
 ### :writing_hand: Short Introduction :
 <div id="header" align="center">
