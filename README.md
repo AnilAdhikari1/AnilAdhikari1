@@ -14,7 +14,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
  
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **figma & Softechpark Company Web DeveloperIntern.**
+- 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern.**
 
 - 🌱 I’m currently learning **Google IT Automation with Python Professional.**
 
@@ -28,7 +28,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
 - 📫 How to reach me **adhikarianil260@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences **(Coming Soon) **
 
 - ⚡ Fun fact **I am a person having happy personality with a heavy soul. But sometimes it gets weird!!**
 
