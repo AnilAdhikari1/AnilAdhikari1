@@ -3,7 +3,7 @@
 </div>
 
 ### :writing_hand: Short Introduction :
-<div id="header" align="center">
+<div 🆔 id="header" align="center">
 I’m a multitasking person. I am currently studying computer engineering & also I’m currently working as a figma & Softechpark Company web developer Intern. I’m also currently learning Google IT Automation with Python. I export computer hardware & Networking I build many computer & networking in many places. I would to like & contribute to learning something different & to be sharp in my technical skills & experience, daily. </div>
 
 <h1 align="center">Hi There I'm 👋, Anil Adhikar</h1>
@@ -14,23 +14,23 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
  
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern.**
+- 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern**
 
-- 🌱 I’m currently learning **Google IT Automation with Python Professional.**
+- 🌱 I’m currently learning **Google IT Automation with Python Professional**
 
-- 👯 I’m looking to collaborate on **Computer Software/Coding,Hardware & Networking.**
+- 👯 I’m looking to collaborate on **Computer Software,Coding/Hardware & Networking**
 
-- 🤝 I’m looking for help with **Developer**
+- 🤝 I’m looking for help with **Programmer**
 
-- 👨‍💻 All of my projects are available at (Coming Soon on my website)
+- 👨‍💻 All of my projects are available at **(Coming Soon on my website)**
 
-- 💬 Ask me about **HTML, CSS, Java, Python & Cyber Security/ Ethical Hacking.**
+- 💬 Ask me about **HTML, CSS, Java, Python & Cyber Security/ Ethical Hacking**
 
 - 📫 How to reach me **adhikarianil260@gmail.com**
 
-- 📄 Know about my experiences **(Coming Soon) **
+- 📄 Know about my experiences **(Coming Soon)**
 
-- ⚡ Fun fact **I am a person having happy personality with a heavy soul. But sometimes it gets weird!!**
+- ⚡ Fun fact **I am a person having happy personality with a heavy soul but sometimes it gets weird!!**
 
 <h3 align="left">👨‍💻 Skills & Experiance :</h3>
 ✅ WordPress <br>
