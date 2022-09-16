@@ -22,7 +22,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
 - 🤝 I’m looking for help with **Developer**
 
-- 👨‍💻 All of my projects are available at [Coming Soon on my website](Coming Soon on my website)
+- 👨‍💻 All of my projects are available at (Coming Soon on my website)
 
 - 💬 Ask me about **HTML, CSS, Java, Python & Cyber Security/ Ethical Hacking.**
 
