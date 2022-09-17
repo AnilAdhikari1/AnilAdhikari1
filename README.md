@@ -15,21 +15,13 @@ I’m a multitasking person. I am currently studying computer engineering & also
  
 ### :woman_technologist: About Me :
 - 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern**
-
 - 🌱 I’m currently learning **Google IT Automation with Python Professional**
-
 - 👯 I’m looking to collaborate on **Computer Software,Coding/Hardware & Networking**
-
 - 🤝 I’m looking for help with **Programmer**
-
 - 👨‍💻 All of my projects are available at **(Coming Soon on my website)**
-
 - 💬 Ask me about **HTML, CSS, Java, Python & Cyber Security/ Ethical Hacking**
-
 - 📫 How to reach me **adhikarianil260@gmail.com**
-
 - 📄 Know about my experiences **(Coming Soon)**
-
 - ⚡ Fun fact **I am a person having happy personality with a heavy soul but sometimes it gets weird!!**
 
 <h3 align="left">👨‍💻 Skills & Experiance :</h3>
