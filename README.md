@@ -37,7 +37,8 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
 <h3 align="left">🤝Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anil-adhikari01/"> <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/> </a>
+<a href="https://www.linkedin.com/in/anil-adhikari01/"> <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/> </a> <a href="https://www.facebook.com/AnilAdhikari.350123/">
+<img height="40"src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"/> </a>
   
   
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
