@@ -13,7 +13,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1" /> </p>
 
  
-### :woman_technologist: About Me :
+### 🙇 About Me :
 - 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern**
 - 🌱 I’m currently learning **Google IT Automation with Python Professional**
 - 👯 I’m looking to collaborate on **Computer Software,Coding/Hardware & Networking**
