@@ -9,10 +9,8 @@ I’m a multitasking person. I am currently studying computer engineering & also
 <h1 align="center">Hi There I'm 👋, Anil Adhikar</h1>
 <h3 align="center">😊 I am a energetic learner to learn something different every days 😊</h3>
 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1"/> </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1" /> </p>
-
- 
 ### 🙇 About Me :
 - 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern**
 - 🌱 I’m currently learning **Google IT Automation with Python Professional**
