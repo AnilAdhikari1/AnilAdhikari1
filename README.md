@@ -22,7 +22,7 @@ I’m a multitasking person. I am currently studying computer engineering & also
 - 📄 Know about my experiences **(Coming Soon)**
 - ⚡ Fun fact **I am a person having happy personality with a heavy soul but sometimes it gets weird!!**
 
-<h3 align="left">👨‍💻 Skills & Experiance :</h3>
+<h3 align="left">🧑‍💼Skills & Experiance :</h3>
 ✅ WordPress / Figma <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
@@ -30,6 +30,17 @@ I’m a multitasking person. I am currently studying computer engineering & also
 💻 Computer Hardware & Networking <br>
 ✅ Basic Cyber Security & Ethical Hacking <br>
 ✅ Photoshop / Illustrator /  XD <br>
+
+<h3 align="left">👨‍💻 I am currently working on this topic (My new current projects) :</h3>
+➥ Softechpark Company Web Developer Intern <br>
+➥ Learning Google IT Automation with Python Professional <br>
+➥ Date convertor <br>
+➥ Mp3 to mp4 / Mp4 to mp3 convertor <br>
+➥ Password generator <br>
+➥ Number to words convert and word to number convert <br>
+➥ Tik-Tok video download without watermark site <br>
+➥ Video compress site <br>
+➥ QR Code generator <br>
 
 
 
