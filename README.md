@@ -58,18 +58,27 @@ I’m a multitasking person. I am currently studying computer engineering & also
 
 ### :fire: My Stats :
 
+<b>Note:</b> The  GitHub Stats are metrics of the languages and other things my public code consists of and reflect experience or skill level.
+
 <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniladhikari1&show_icons=true&theme=radical"/>
      
-  <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikari1&layout=compact&langs_count=7&theme=dracula"/>   
- 
-   <img height="180em" align= "lift" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=aniladhikari1&theme=dark&border_radius=.5"/>
+  <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniladhikari1&layout=compact&langs_count=7&theme=dracula"/> 
+  
+  <img height="180em" align= "lift" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=aniladhikari1&theme=dark&border_radius=.5"/> 
    
-   ![GitHub metrics](https://metrics.lecoq.io/aniladhikari1) 
-  
-  
+
+   
 
   
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniladhikari1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnilAdhikari1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+
+
+
+
+
+
+  
+
   
   
  
