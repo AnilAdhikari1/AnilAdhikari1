@@ -4,7 +4,7 @@
 
 ### :writing_hand: Short Introduction :
 <div 🆔 id="header" align="center">
-I’m a multitasking person. I am currently studying computer engineering & also I’m currently working as a figma & Softechpark Company web developer Intern. I’m also currently learning Google IT Automation with Python. I export computer hardware & Networking I build many computer & networking in many places. I would to like & contribute to learning something different & to be sharp in my technical skills & experience, daily. </div>
+I’m a multitasking person. I am currently studying computer engineering. & also currently working as a web developer intern at Figma and Softechpark Company. I’m also currently learning Google IT Automation with Python. I export computer hardware and networking, I build a lot of computers and networking in many places. I want to learn something different every day, sharpen my technical skills, and experience, and contribute. </div>
 
 <h1 align="center">Hi There I'm 👋, Anil Adhikar</h1>
 <h3 align="center">😊 I am a energetic learner to learn something different every days 😊</h3>
@@ -12,24 +12,23 @@ I’m a multitasking person. I am currently studying computer engineering & also
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1"/> </div>
 
 ### 🙇 About Me :
-- 🔭 I’m currently working on **figma & Softechpark Company Web Developer Intern**
-- 🌱 I’m currently learning **Google IT Automation with Python Professional**
-- 👯 I’m looking to collaborate on **Computer Software,Coding/Hardware & Networking**
-- 🤝 I’m looking for help with **Programmer**
-- 👨‍💻 All of my projects are available at **(Coming Soon on my website)**
-- 💬 Ask me about **HTML, CSS, Java, Python & Cyber Security/ Ethical Hacking**
+- 🔭 I’m currently working on **Web Developer Intern at Figma and Softechpark Company.**
+- 🌱 I’m currently learning **Google IT Automation with Python Professional.**
+- 👯 I’m looking to collaborate on **Computer Software/ Hardware, Coding & Networking/ Cyber Security, Ethical Hacking.**
+- 🤝 I’m looking for help with **Programmer, Cyber Security & Ethical Hacking.**
+- 👨‍💻 All of my projects are available at **(Coming Soon on my website).**
+- 💬 Ask me about **Programming Like (HTML, CSS, Java, Python) & Cyber Security/ Ethical Hacking.**
 - 📫 How to reach me **adhikarianil260@gmail.com**
-- 📄 Know about my experiences **(Coming Soon)**
+- 📄 Know about my experiences **(Coming Soon on my website).**
 - ⚡ Fun fact **I am a person having happy personality with a heavy soul but sometimes it gets weird!!**
 
 <h3 align="left">🧑‍💼Skills & Experiance :</h3>
+✅ Web Develop <br>
+✅ Peogramming Like (HTM, CSS, JavaSceipt, Python) <br>
 ✅ WordPress / Figma <br>
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML / CSS / python <br>
 💻 Computer Hardware & Networking <br>
 ✅ Basic Cyber Security & Ethical Hacking <br>
-✅ Photoshop / Illustrator /  XD <br>
+✅ Adobe Like (Photoshop, Illustrator, XD) <br>
 
 <h3 align="left">👨‍💻 I am currently working on this topic (My new current projects) :</h3>
 ➥ Softechpark Company Web Developer Intern <br>
