@@ -47,7 +47,7 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 <a href="https://www.linkedin.com/in/aniladhikari1/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /> </a> <a href="https://stackoverflow.com/users/12456793/anil-adhikari"> <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" height="40" width="40" /> </a> <a href="https://www.facebook.com/AnilAdhikari.350123/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40" width="40" /> </a> <a href="https://www.instagram.com/?hl=en"> <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" /> 
 
 
-</a> <a href="https://discord.gg/dCqaE7k3Aq"> <img src="https://t3.ftcdn.net/jpg/06/27/79/72/240_F_627797217_6kq3An1a4AmDp8HAXlvQ6wDuclZiSqDN.jpg" height="40" width="40" /> </a> </p> </a> 
+</a> <a href="https://discord.gg/dCqaE7k3Aq"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height="40" width="40" /> </a> </p> </a> 
 
 
 
