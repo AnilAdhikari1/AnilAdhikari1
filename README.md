@@ -4,10 +4,10 @@
 
 ### :writing_hand: Short Introduction :
 <div 🆔 id="header" align="center">
-I’m a multitasking person. I am currently studying computer engineering. & also currently working as a web developer intern at Figma and Softechpark Company. I’m also currently learning Google IT Automation with Python. I export computer hardware and networking, I build a lot of computers and networking in many places. I want to learn something different every day, sharpen my technical skills, and experience, and contribute. </div>
+I’m a multitasking person. I am currently studying computer engineering. & also currently working as a web developer intern at Figma and Softechpark Company. I’m also currently learning Google IT Automation with Python. I export computer hardware and networking, and I build a lot of computers and networking in many places. I want to learn something different every day, sharpen my technical skills, and experience, and contribute. </div>
 
 <h1 align="center">Hi There I'm 👋, Anil Adhikar</h1>
-<h3 align="center">😊 I am a energetic learner to learn something different every days 😊</h3>
+<h3 align="center">😊 I am an energetic learner to learn something different every day 😊</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1"/> </div>
 
@@ -20,11 +20,11 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 - 💬 Ask me about **Programming Like (HTML, CSS, Java, Python) & Cyber Security/ Ethical Hacking.**
 - 📫 How to reach me **adhikarianil260@gmail.com**
 - 📄 Know about my experiences **(Coming Soon on my website).**
-- ⚡ Fun fact **I am a person having happy personality with a heavy soul but sometimes it gets weird!!**
+- ⚡ Fun fact **I am a person with having happy personality with a heavy soul but sometimes it gets weird!!**
 
-<h3 align="left">🧑‍💼Skills & Experiance :</h3>
+<h3 align="left">🧑‍💼Skills & Experience :</h3>
 ✅ Web Develop <br>
-✅ Peogramming Like (HTM, CSS, JavaSceipt, Python) <br>
+✅ Programming Like (HTM, CSS, JavaSceipt, Python) <br>
 ✅ WordPress / Figma <br>
 💻 Computer Hardware & Networking <br>
 ✅ Basic Cyber Security & Ethical Hacking <br>
@@ -44,7 +44,7 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 <h3 align="left">🤝Connect with me :</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/anil-adhikari1/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /> </a> <a href="https://stackoverflow.com/"> <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" height="40" width="40" /> </a> <a href="https://www.facebook.com/AnilAdhikari.350123/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40" width="40" /> </a> <a href="https://www.instagram.com/?hl=en"> <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" /> </a> <a href="https://discord.com/users/1020601345079775323"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="40" width="40" /> </a> </p>
+<a href="https:/www.linkedin.com/in/aniladhikari1/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /> </a> <a href="https://stackoverflow.com/"> <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" height="40" width="40" /> </a> <a href="https://www.facebook.com/AnilAdhikari.350123/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40" width="40" /> </a> <a href="https://www.instagram.com/?hl=en"> <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" /> </a> <a href="https://discord.com/users/1020601345079775323"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="40" width="40" /> </a> </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 
