@@ -49,7 +49,7 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 
 <a href="https://discord.gg/dCqaE7k3Aq"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height="40" width="40" /> </a> </p></a>
 
-
+<a href="https://t.me/AnilAdhikari1"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height="40" width="40" /> </a> </p></a>
 
 <a href="https://t.me/AnilAdhikari1"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height="40" width="40" /> </a> </p>
 
