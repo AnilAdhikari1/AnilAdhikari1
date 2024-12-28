@@ -12,15 +12,15 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=aniladhikari1&label=Profile%20views&color=0e75b6&style=flat" alt="aniladhikari1"/> </div>
 
 ### 🙇 About Me :
-- 🔭 I’m currently working on **Web Developer Intern at Figma and Softechpark Company.**
+- 🔭 I’m currently working as **Web Developer Intern at Figma and Softechpark Company.**
 - 🌱 I’m currently learning **Google IT Automation with Python Professional.**
 - 👯 I’m looking to collaborate on **Computer Software/ Hardware, Coding & Networking/ Cyber Security, Ethical Hacking.**
 - 🤝 I’m looking for help with **Programmer, Cyber Security & Ethical Hacking.**
 - 👨‍💻 All of my projects are available at **(Coming Soon on my website).**
 - 💬 Ask me about **Programming Like (HTML, CSS, Java, Python) & Cyber Security/ Ethical Hacking.**
-- 📫 How to reach me **adhikarianil260@gmail.com**
+- 📫 How to reach me **aniladhikari870@gmail.com**
 - 📄 Know about my experiences **(Coming Soon on my website).**
-- ⚡ Fun fact **I am a person with having happy personality with a heavy soul but sometimes it gets weird!!**
+- ⚡ Fun fact **I am a person with a happy personality with a heavy soul but sometimes it gets weird!!**
 
 <h3 align="left">🧑‍💼Skills & Experience :</h3>
 ✅ Web Develop <br>
@@ -45,10 +45,6 @@ I’m a multitasking person. I am currently studying computer engineering. & als
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aniladhikari1/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /> </a> <a href="https://stackoverflow.com/users/12456793/anil-adhikari"> <img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" height="40" width="40" /> </a> <a href="https://www.facebook.com/AnilAdhikari.350123/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40" width="40" /> </a> <a href="https://www.instagram.com/?hl=en"> <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" /> </a> <a href="https://discord.gg/dCqaE7k3Aq"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height="40" width="40" /> </a> <a href="https://t.me/AnilAdhikari1"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height="40" width="40" /> </a> 
-
-
-
-
 
 
 
